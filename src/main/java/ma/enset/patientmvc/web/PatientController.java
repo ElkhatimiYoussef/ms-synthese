@@ -81,22 +81,3 @@ public class PatientController {
     }
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
